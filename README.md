@@ -10,4 +10,4 @@ sudo apt-get --purge remove sunloginclient
 向日葵linux Ubuntu图形界面安装指令
 sudo dpkg -i 文件名.deb
 甲骨文Ubuntu开启端口防火墙
-iptables -I INPUT -p tcp --dport 7880 -j ACCEPT
+iptables -I INPUT -p tcp --dport 7800 -j ACCEPT
