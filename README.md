@@ -11,3 +11,5 @@ sudo apt-get --purge remove sunloginclient
 sudo dpkg -i 文件名.deb
 甲骨文Ubuntu开启端口防火墙
 iptables -I INPUT -p tcp --dport 7800 -j ACCEPT
+开启bbr加速和开启ROOT登录
+wget --no-check-certificate https://raw.githubusercontent.com/jinwyp/one_click_script/master/trojan_v2ray_install.sh && chmod +x ./trojan_v2ray_install.sh && ./trojan_v2ray_install.sh
