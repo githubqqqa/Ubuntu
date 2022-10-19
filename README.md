@@ -16,7 +16,7 @@ sudo dpkg -i 文件名.deb
 
 甲骨文Ubuntu开启端口防火墙
 ```
-iptables -I INPUT -p tcp --dport 7800 -j ACCEPT
+iptables -I INPUT -p tcp --dport 填入你需要的端口 -j ACCEPT
 ```
 
 开启bbr加速和开启ROOT登录
