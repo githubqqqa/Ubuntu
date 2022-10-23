@@ -13,6 +13,10 @@ sudo apt-get --purge remove sunloginclient
 ```
 sudo dpkg -i 文件名.deb
 ```
+出现未安装依赖包使用此命令
+```
+sudo apt-get install -f
+```
 
 甲骨文Ubuntu开启端口防火墙
 ```
