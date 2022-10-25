@@ -22,6 +22,15 @@ sudo apt-get install -f
 ```
 iptables -I INPUT -p tcp --dport 填入你需要的端口 -j ACCEPT
 ```
+关闭防火墙清楚配置规则
+```
+1、Ubuntu系统下：
+开放所有端口
+iptables -P INPUT ACCEPT
+iptables -P FORWARD ACCEPT
+iptables -P OUTPUT ACCEPT
+iptables -F
+```
 
 开启bbr加速和开启ROOT登录
 ```
