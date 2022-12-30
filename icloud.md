@@ -1,12 +1,10 @@
 ### mega
-
-
-
-
-
 ```
-https://github.com/hejijii/Ubuntu/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20221230171001.png
+https://mega.nz/folder/Pv41AQ4S#qvbwTCJXQeDrF14rOKX3fA
 ```
+
+![mega图片](https://github.com/hejijii/Ubuntu/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20221230171001.png)
+
 
 ### icloud网盘
 
